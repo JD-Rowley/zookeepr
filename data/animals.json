@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Scabbers",
+      "species": "Rat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
